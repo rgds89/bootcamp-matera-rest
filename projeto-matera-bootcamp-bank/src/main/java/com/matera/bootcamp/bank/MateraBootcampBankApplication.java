@@ -1,4 +1,4 @@
-package com.matera.bootcampbank.materabootcampbank;
+package com.matera.bootcamp.bank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
